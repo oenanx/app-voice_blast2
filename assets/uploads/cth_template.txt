@@ -1,0 +1,1 @@
+Kepada #name, tagihan anda sebesar #amount rupiah, sudah terlambat selama #overdue hari. Harap segera anda bayarkan. Abaikan jika sudah anda bayarkan. Terima kasih.
